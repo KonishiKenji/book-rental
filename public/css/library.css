@@ -1,0 +1,35 @@
+.modal-header .close {
+    margin-top: -30px;
+}
+
+tr.borrowing{
+	background-color: rgba(169, 145, 145, 0.59);z
+}
+
+.search-right {
+  /* width: 100px; */
+  margin: 0 5% 10px 60%;
+  border: 10px;
+}
+
+/* ========== [add_1022] ========== */
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.listDotNone {
+  list-style: none;
+}
+/* ========== [add_1022] ========== */
